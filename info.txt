@@ -1,0 +1,18 @@
+You are inventor and come up with prodct which costs money
+kickstarter help you to raise money
+you will discuss the project on this website and someone will donate and in future you can get rewards
+campaign creator get money if meet some minimum funding goal
+one campaign succedd then kickstarter send money to the capgain owner
+then capgain creator build product and send to donated ones
+where things get wrong
+-some people may be malicious totally upto campaign creator to takee money and spend to the project
+and spend to dinators
+many projects are failing end up meeting funding goals but meet no goals and no product
+so all the backers loose money
+-people malicious with no intend to use that mmoney
+this is repetitive problem sometimes people dont deliver the money
+how to use ethereum contract to solve this
+
+**Fixing this issue**
+
+
