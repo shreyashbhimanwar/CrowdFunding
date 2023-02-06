@@ -14,7 +14,7 @@ The purpose of this project is to increase the credibility of crowdfunding campa
 - The manager can create funding requests for campaigns by specifying a description, funding amount and the recipient(address) who will be receiving the fund
 - At least 50% of those who contributed to the campaign needs to approve a funding request in order for the manager to be able to finalize the funding and transfer the amount to the recipient of the funding request
 
-## Demo URL: https://crowdfunding-six.vercel.app/
+
 > Make sure to have metamask plugin installed in your browser
 
 ## Prerequisites
